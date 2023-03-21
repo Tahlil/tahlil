@@ -6,12 +6,16 @@ Web3 Engineer
 
 I am the founding blockchain engineer of Leveor and also currently working at a Silicon Valley based venture studio called Tero Labs LLC. I have been working in the web3 space for around 7 years. I am working professionally in the software industry for around 6 years and last 3 years I have been working in web3 professionally. I also have 5 International blockchain olympiad awards and multiple awards in international web3 hackathons and multiple internationally recognized blockchain certifications.
 
-*   🌍  I'm based in Dhaka, Bangladesh 🇧🇩
-*   🖥️  See my portfolio at [MyPortfolio](http://tahlil-personal-website.vercel.app/)
-*   ✉️  You can contact me at [tahlil@ieee.org](mailto:tahlil@ieee.org)
-*   🧠  I'm learning Advanced Smart contract Development in Rust
-*   🤝  I'm open to collaborating on Web3 Open Source Projects
-*   ⚡  One thing about me is that I have a one word name, \`Tahlil\` That's it### Skills 
+* 🌍  I'm based in Dhaka, Bangladesh 🇧🇩
+* 🖥️  See my portfolio at [MyPortfolio](http://tahlil-personal-website.vercel.app/)
+* ✉️  You can contact me at [tahlil@ieee.org](mailto:tahlil@ieee.org)
+* 🧠  I'm learning Advanced Smart contract Development in Rust
+* 🤝  I'm open to collaborating on Web3 Open Source Projects
+* ⚡  One thing about me is that I have a one word name, \`Tahlil\` That's it
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -63,24 +67,20 @@ I am the founding blockchain engineer of Leveor and also currently working at a 
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.codepen.io/Tahlil803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://discord.com/users/Tahlil#4174" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/7769344/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/TahlilBsse0803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/tahlil"><img src="https://github-readme-stats.vercel.app/api?username=tahlil&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tahlil's GitHub stats" /></a><a
-                      href="http://www.github.com/tahlil"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=tahlil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/tahlil"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tahlil&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/tahlil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahlil&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.codepen.io/Tahlil803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Tahlil#4174" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7769344/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TahlilBsse0803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/tahlil"><img src="https://github-readme-stats.vercel.app/api?username=tahlil&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tahlil's GitHub stats" /></a>
+
+<a href="http://www.github.com/tahlil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tahlil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/tahlil"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tahlil&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/tahlil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahlil&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
