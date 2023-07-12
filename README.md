@@ -4,14 +4,14 @@ Hi 👋 My name is Tahlil
 Web3 Engineer
 -------------
 
-I am the founding blockchain engineer of Leveor and also currently working at a Silicon Valley based venture studio, Tero Labs LLC. I have been working in the web3 space for around 7 years. I am working professionally in the software industry for around 6 years and last 3 years I have been working in web3 professionally. I also have 5 International blockchain olympiad awards and multiple awards in international web3 hackathons and multiple internationally recognized blockchain certifications.
+I am the founding blockchain engineer of Leveor and also currently working at a Silicon Valley-based venture studio, Tero Labs LLC. I have been working in the web3 space for around 7 years. I am working professionally in the software industry for around 6 years and last 3 years I have been working in web3 professionally. I also have 5 International blockchain olympiad awards and multiple awards in international web3 hackathons and multiple internationally recognized blockchain certifications.
 
 * 🌍  I'm based in Dhaka, Bangladesh 🇧🇩
 * 🖥️  See my portfolio at [MyPortfolio](http://tahlil-personal-website.vercel.app/)
 * ✉️  You can contact me at [tahlil@ieee.org](mailto:tahlil@ieee.org)
 * 🧠  I'm learning Advanced Smart contract Development in Rust
 * 🤝  I'm open to collaborating on Web3 Open Source Projects
-* ⚡  One thing about me is that I have a one word name, \`Tahlil\` That's it
+* ⚡  One thing about me is that I have a one-word name, \`Tahlil\` That's it
 
 ### Skills
 
@@ -73,11 +73,10 @@ I am the founding blockchain engineer of Leveor and also currently working at a 
 
 <p align="left"> <a href="https://www.codepen.io/Tahlil803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Tahlil#4174" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7769344/tahlil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TahlilBsse0803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
 
 <a href="http://www.github.com/tahlil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tahlil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/tahlil"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tahlil&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
