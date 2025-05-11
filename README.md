@@ -4,14 +4,14 @@ Hi 👋 My name is Tahlil
 Web3 Engineer
 -------------
 
-I am the founding blockchain engineer of Leveor and also currently working at a Silicon Valley-based venture studio, Tero Labs LLC. I have been working in the web3 space for around 7 years. I am working professionally in the software industry for around 6 years and last 3 years I have been working in web3 professionally. I also have 5 International blockchain olympiad awards and multiple awards in international web3 hackathons and multiple internationally recognized blockchain certifications.
+I am the founding blockchain engineer of Leveor and also currently working at a Silicon Valley-based venture studio, Tero Labs LLC. I have been working in the web3 space for around 8 years. I am working professionally in the software industry for around 7 years, and last 4 years, I have been working in web3 professionally. I also have 5 International Blockchain Olympiad awards and multiple awards in international web3 hackathons, and multiple internationally recognized blockchain certifications.
 
 * 🌍  I'm based in Dhaka, Bangladesh 🇧🇩
 * 🖥️  See my portfolio at [MyPortfolio](http://tahlil-personal-website.vercel.app/)
 * ✉️  You can contact me at [tahlil@ieee.org](mailto:tahlil@ieee.org)
-* 🧠  I'm learning Advanced Smart contract Development in Rust
+* 🧠  I'm learning Advanced Smart Contract Development in Rust
 * 🤝  I'm open to collaborating on Web3 Open Source Projects
-* ⚡  One thing about me is that I have a one-word name, \`Tahlil\` That's it
+* ⚡  One thing about me is that I have a one-word name, \`Tahlil\`. That's it
 
 ### Skills
 
